@@ -6,7 +6,7 @@ with open("README.md") as file:
 
 setup(
     name='emiliiak_calculator',
-    version='1.0',
+    version='0.1.1',
     packages=find_packages(),
     author='Emiliia Karpiuk',
     author_email='emiliiakarpiuk@gmail.com',

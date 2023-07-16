@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "emiliiak-calculator"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Emiliia Karpiuk <emiliiakarpiuk@gmail.com>"]
 readme = "README.md"
