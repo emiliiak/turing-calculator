@@ -34,7 +34,7 @@ To use the Calculator Package in your Python program, follow these steps:
 
     .. code-block:: python
 
-        from calculator.calculator import Calculator
+        from emiliiak_calculator.calculator import Calculator
 
 2. Create an instance of the `Calculator` class:
 
