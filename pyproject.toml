@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "emiliiak-calculator"
+version = "0.1.0"
+description = ""
+authors = ["Emiliia Karpiuk <emiliiakarpiuk@gmail.com>"]
+readme = "README.md"
+packages = [{include = "emiliiak_calculator"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
